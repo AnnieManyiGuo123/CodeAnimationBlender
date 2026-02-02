@@ -12,5 +12,8 @@ Here, you can know how to code for 3D animation and models by using Blender "Scr
 
 > Blender is required to run and view the scripts in this repository.
 
+
+Inside the “ARTproject” folder are completed projects; the others are simple Blender code implementations.
+
 Now you can explore a new way to create 3D animation — **by coding**!!!
 
