@@ -1,5 +1,4 @@
 # CodeAnimationBlender
-Here, you can know how to code for 3D animation and models by using Blender "Script" from beginning...
 # Exploration Project #1 — Coding for Animation
 
 A project exploring 3D animation in Blender using code and potential AI applications, aiming to create animations and models through programming rather than manual tools.
